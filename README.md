@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm cutting-edge developer who gets in clean and modern code. Help companies to rich their business goals from the development side. I have significant **7+ years** of experience in different types of companies both front- and back-end development using **NodeJS**, **AWS services (Lambda, Cognito, DynamoDB, CloudFront, Route53, SES, SQS, CloudFormation, CDK, etc...), MongoDB, SQL, and React**. Have a deep mathematical background. Also have DevOps knowledge using **AWS CDK, Terraform, Docker, GCloud, and Kubernetes**. Have proficiency in the past with C# and PHP but my heart belongs to JS ❤️
+I'm a cutting-edge developer who gets in clean and modern code. Help companies to rich their business goals from the development side. I have significant **7+ years** of experience in different types of companies both front- and back-end development using **React + Redux/Relay GraphQL/Context API, NodeJS, AWS services (Lambda, Cognito, DynamoDB, CloudFront, Route53, SES, SQS, CloudFormation, CDK, etc...), MongoDB, SQL, and React**. Have a deep mathematical background. Also have DevOps knowledge using **AWS CDK, Terraform, Docker, GCloud, and Kubernetes**. Have proficiency in the past with C# and PHP but my heart belongs to JS ❤️
 
 [Telegram](https://t.me/denyskublytskyi)
 
